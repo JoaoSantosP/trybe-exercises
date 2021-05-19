@@ -1,0 +1,208 @@
+body{   
+    text-align: center;
+    background-color: chocolate;
+}
+
+.header1{
+    width: 800px;
+    padding: 20px;
+    margin-left: 25% ;
+    background-color: rgb(8, 143, 153);
+    border: 2px solid black;
+    border-radius: 5px;
+    color: yellow;
+    /*width: 800px;
+    margin-left: 25%;
+    background-color: blue;
+    color: bisque;*/
+
+}
+.nav1 ul li{ 
+    list-style-type: none;
+    width: 100px;
+    display: inline;
+    margin-right: 100px;
+    font-weight: 900;
+}
+.nav1{
+    width: 800px;
+    padding: 20px;
+    margin-left: 25%;
+    background-color: rgb(8, 143, 153);
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+nav ul li a{
+    font-size: 18px;
+    color: yellow;
+    text-decoration: none;
+        
+}
+
+    img{
+        width: 400px;
+        height: 250px;
+        position: absolute;
+        top:600;
+        left: 49.3%;
+    }
+    .fatos{
+        color: yellow;
+        font-size: 30px;
+        position: absolute;
+        top: 500px;
+        width: 800px;
+        margin-left: 25%;
+        text-decoration: underline;
+        
+
+
+    }
+    section p{
+        color: bisque;
+        font-size: 18px;
+        width: 800px;
+        margin-left: 25%;
+        position: absolute;
+        top: 550px;
+        text-align: left;
+        
+    }
+    h3{
+        color: yellow;
+        text-decoration: underline;
+    }
+    .h4{
+        color: yellow;
+        font-size: 25px;
+        position: absolute;
+        top: 700px;
+        width: 800px;
+        margin-left: 25%;
+        text-decoration: underline;
+        
+
+    }
+    .h42{
+        color: yellow;
+        font-size: 25px;
+        position: absolute;
+        top: 1300px;
+        width: 800px;
+        margin-left: 25%;
+        text-decoration: underline;
+
+    }
+    .p2{
+        color: bisque;
+        font-size: 18px;
+        width: 800px;
+        margin-left: 25%;
+        position: absolute;
+        top: 1350px;
+        text-align: left;
+
+    }
+    .descricao{
+        font-size: 18px;
+        color: bisque;
+        position: absolute;
+        top: 750px;
+
+    }
+    table{
+        width: 300px;
+        height: 200px;
+        border: 2px solid black;
+        border-radius: 5px;
+        position: absolute;
+        
+        left: 25.3%;
+        
+        
+    
+    }
+    tr{
+        border: 1px solid black;
+        background-color: rgb(109, 218, 158);
+        border-radius: 5px;
+    }
+    th{
+        border: 1px solid black;
+        color: yellow;
+        border-radius: 5px;
+
+    }
+    td{
+        border: 1px solid black; 
+        color: yellow;
+        border-radius: 5px;
+
+    } 
+    .header2{
+        font-size: 25px;
+        color: rgb(0, 0, 0);
+        position: absolute;
+        top: 1750px;
+        left: 25.5%;    
+        
+        
+    }
+    .nav2{
+        
+        font-size: 18px;
+        position: absolute;
+        top: 1850px;
+        left: 19.4%;
+        
+
+    }
+    .nav2 ul li {
+        list-style-type: none;
+        width: 100px;
+        display: inline;
+        margin-left: 20px;
+        font-weight: 900;
+        
+    }
+    
+    .nav2 a{
+        padding: 20px;
+        background-color: rgb(8, 143, 153);
+        border: 2px solid black;
+        border-radius: 5px;
+        color: yellow;
+        width: 200px;
+        margin-left: 100px;
+        text-decoration: none;
+        
+    } 
+    
+    
+    .video {
+        position: absolute;
+        top: 1975px;
+        left: 25.6%;
+        width: 700px;
+        height: 300px;
+        margin-bottom: 100px;
+    }
+    footer{
+        padding: 10px;
+        margin:auto;
+        border: 2px solid black;
+        border-radius: 5px;
+        color: yellow;
+        background-color: rgb(8, 143, 153);
+        position: absolute;
+        top: 2300px;
+        left: 25.6%;
+
+
+    }
+    #imgsto{
+        position: absolute;
+        top: 1500px;
+        left: 25.6%;
+    }
