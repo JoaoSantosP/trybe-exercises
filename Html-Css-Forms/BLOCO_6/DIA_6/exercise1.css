@@ -1,0 +1,103 @@
+body {
+margin: 15%;
+font-size: 18px;
+}
+
+h1 {
+font-size: 15px;
+}
+
+h2 {
+
+}
+
+img {
+    max-width: 100%;   
+}
+
+figure {
+    
+    margin: 0;
+    margin-top: 10%;
+}
+
+@media screen and (min-width: 700px) {
+  *{
+    font-size: 1.5em;
+    font-family: 'ubuntu';
+    margin: 0 1%;
+  }
+  body {
+    background-color: rgb(218, 204, 204);
+    font-size: 20px;
+    
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 5%;
+    margin-left: 3%;
+  }
+
+  h2{
+    font-size: 2em;
+    margin-top: 5%;
+    margin-left: 3%;
+  }
+
+  figcaption{
+    font-size: 0.7em;
+  }
+ 
+
+  .container-figures {
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+
+  figure {
+    margin-left: 2%;
+  }
+
+  p{
+    margin-left: 3%;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  *{
+    font-size: 1.2em;
+    margin-left: 5%;
+    margin-right: 5%;
+    max-width: 100%;
+    
+  }
+
+  body{
+    background-color:rgb(238, 195, 251);
+  }
+  p{
+    width: 100%;
+  }
+
+  h1{
+    font-size: 2em;
+  }
+
+  h2{
+    font-size: 1.5em;
+  }
+  
+  .container-figures {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+  }
+
+  figcaption{
+    font-size: 0.7em;
+  }
+
+ 
+}
